@@ -1,0 +1,825 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<HomeScreen /> renders correctly 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "borderColor": "grey",
+        "borderStyle": "dashed",
+        "elevation": 11,
+        "justifyContent": "center",
+        "margin": 20,
+        "marginBottom": 20,
+        "marginTop": 20,
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 5,
+          "width": 0,
+        },
+        "shadowOpacity": 0.36,
+        "shadowRadius": 6.68,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "dodgerblue",
+          "fontSize": 30,
+          "padding": 2,
+          "textAlign": "center",
+        }
+      }
+    >
+      Multiplication
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "dodgerblue",
+          "fontSize": 30,
+          "padding": 2,
+          "textAlign": "center",
+        }
+      }
+    >
+      Tables
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "dodgerblue",
+          "fontSize": 20,
+          "textAlign": "center",
+        }
+      }
+    >
+      Please select a table?
+    </Text>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "red",
+                  },
+                ]
+              }
+            >
+              1
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "orange",
+                  },
+                ]
+              }
+            >
+              2
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "yellow",
+                  },
+                ]
+              }
+            >
+              3
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "green",
+                  },
+                ]
+              }
+            >
+              4
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "blue",
+                  },
+                ]
+              }
+            >
+              5
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "indigo",
+                  },
+                ]
+              }
+            >
+              6
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "violet",
+                  },
+                ]
+              }
+            >
+              7
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "darkred",
+                  },
+                ]
+              }
+            >
+              8
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "darkorange",
+                  },
+                ]
+              }
+            >
+              9
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "yellow",
+                  },
+                ]
+              }
+            >
+              10
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "lightgreen",
+                  },
+                ]
+              }
+            >
+              11
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View
+        style={
+          Object {
+            "alignSelf": "center",
+            "height": 30,
+            "margin": 5,
+            "marginBottom": 25,
+            "marginTop": 5,
+            "width": "20%",
+          }
+        }
+      >
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                  Object {
+                    "color": "purple",
+                  },
+                ]
+              }
+            >
+              12
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "alignSelf": "center",
+          "height": 30,
+          "margin": 5,
+          "marginBottom": 25,
+          "marginTop": 5,
+          "width": "90%",
+        }
+      }
+    >
+      <View
+        accessibilityRole="button"
+        accessibilityState={Object {}}
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {},
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "color": "#007AFF",
+                  "fontSize": 18,
+                  "margin": 8,
+                  "textAlign": "center",
+                },
+              ]
+            }
+          >
+            Exit
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

@@ -9,6 +9,12 @@ import useCachedResources from './hooks/useCachedResources';
 
 
 const Drawer = createDrawerNavigator();
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+  },
+});
 
 export default function App(props) {
   const isLoadingComplete = useCachedResources();
@@ -30,10 +36,3 @@ export default function App(props) {
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-  },
-});

@@ -1,0 +1,201 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AboutScreen /> renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    collapsable={false}
+    contentContainerStyle={
+      Object {
+        "marginVertical": 10,
+        "paddingTop": 30,
+      }
+    }
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#fff",
+        "flex": 1,
+      }
+    }
+  >
+    <View>
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "dodgerblue",
+              "fontSize": 30,
+              "textAlign": "center",
+            }
+          }
+        >
+          Mathematics
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "dodgerblue",
+              "fontSize": 30,
+              "textAlign": "center",
+            }
+          }
+        >
+          Grade 3
+        </Text>
+        <Text>
+          App was written in React Native using Expo and Visual Studio Code
+        </Text>
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                ]
+              }
+            >
+              Exit
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
+
+exports[`<App /> renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "backgroundColor": "#fff",
+      "flex": 1,
+    }
+  }
+>
+  <RCTScrollView
+    collapsable={false}
+    contentContainerStyle={
+      Object {
+        "marginVertical": 10,
+        "paddingTop": 30,
+      }
+    }
+    onGestureHandlerEvent={[Function]}
+    onGestureHandlerStateChange={[Function]}
+    style={
+      Object {
+        "backgroundColor": "#fff",
+        "flex": 1,
+      }
+    }
+  >
+    <View>
+      <View>
+        <Text
+          style={
+            Object {
+              "color": "dodgerblue",
+              "fontSize": 30,
+              "textAlign": "center",
+            }
+          }
+        >
+          Mathematics
+        </Text>
+        <Text
+          style={
+            Object {
+              "color": "dodgerblue",
+              "fontSize": 30,
+              "textAlign": "center",
+            }
+          }
+        >
+          Grade 3
+        </Text>
+        <Text>
+          App was written in React Native using Expo and Visual Studio Code
+        </Text>
+        <View
+          accessibilityRole="button"
+          accessibilityState={Object {}}
+          accessible={true}
+          focusable={true}
+          onClick={[Function]}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "opacity": 1,
+            }
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {},
+              ]
+            }
+          >
+            <Text
+              style={
+                Array [
+                  Object {
+                    "color": "#007AFF",
+                    "fontSize": 18,
+                    "margin": 8,
+                    "textAlign": "center",
+                  },
+                ]
+              }
+            >
+              Exit
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
